@@ -1,6 +1,6 @@
 # Budget Application
 
-This is a simple Javascript Budget application that can help you to plan your outgoing expenses and incoming revenues for a specific month. The purpose is to ensure that spending follows a plan.
+This is a simple Javascript Budget application that can help you to plan or calculate your incoming revenues and outgoing expenses for a specific month. The purpose of the experimental application is to ensure that spending follows a plan.
 
 ## Getting Started
 
